@@ -3,7 +3,7 @@
 ## I'm a beginner QA Engineer
 
 ### Languages and Tools
-![YouTrack](https://img.shields.io/badge/-YouTrack-2D2D2D?style=for-the-badge&logo=YouTrack)
+![YouTrack](https://img.shields.io/badge/-YouTrack-2D2D2D?style=for-the-badge&logo=YouTrack, "YouTrack")
 ![Postman](https://img.shields.io/badge/-Postman-2D2D2D?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-2D2D2D?style=for-the-badge&logo=Swagger)
 ![GitHub](https://img.shields.io/badge/-GitHub-2D2D2D?style=for-the-badge&logo=GitHub)
@@ -13,8 +13,12 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-2D2D2D?style=for-the-badge&logo=AndroidStudio)
 ![DevTools](https://img.shields.io/badge/-Devtools-2D2D2D?style=for-the-badge&logo=googleChrome)
 
-Testing Documentation
+### Testing Documentation
+* [Checklists](https://github.com)
+* [Test-cases](https://github.com)
+* [Bug reports](https://github.com)
+* [SQL Queries](https://github.com)
 
-Follow Me
+### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-2D2D2D?style=for-the-badge&logo=Telegram)](https://t.me/omutop)
-![LinkedIn](https://img.shields.io/badge/-Linkedin-2D2D2D?style=for-the-badge&logo=Linkedin)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-2D2D2D?style=for-the-badge&logo=Linkedin)](https://ru.linkedin.com/)
