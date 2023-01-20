@@ -34,7 +34,7 @@
 
 ### Licenses & certifications
 
-[Certificate 👈🏼](https://disk.yandex.ru/i/XMe1oXC8q-gQ_g)
+[Certificate 👈🏼](https://disk.yandex.ru/i/Cca7ZX3rYpIemA)
 --
 
 ### Find Me here
