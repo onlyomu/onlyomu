@@ -1,24 +1,47 @@
-![Header](https://github.com/onlyomu/onlyomu/blob/main/assets/22.png?raw=true, "Hello world!")
+[![Header](https://github.com/onlyomu/onlyomu/blob/main/assets/22.png)](https://www.linkedin.com/in/)
+## I'm a QA Engineer
 
-## I'm a junior QA Engineer
+[Link to my CV 👈🏼](https://google.com/)
+--
 
-### Languages and Tools
-![YouTrack](https://img.shields.io/badge/-YouTrack-2D2D2D?style=for-the-badge&logo=YouTrack)
-![Postman](https://img.shields.io/badge/-Postman-2D2D2D?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/-Swagger-2D2D2D?style=for-the-badge&logo=Swagger)
-![GitHub](https://img.shields.io/badge/-GitHub-2D2D2D?style=for-the-badge&logo=GitHub)
-![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=for-the-badge&logo=Figma)
-![Charles](https://img.shields.io/badge/-CharlesProxy-2D2D2D?style=for-the-badge&logo=Charles)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-2D2D2D?style=for-the-badge&logo=Postgresql)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-2D2D2D?style=for-the-badge&logo=AndroidStudio)
-![DevTools](https://img.shields.io/badge/-Devtools-2D2D2D?style=for-the-badge&logo=googleChrome)
+### Language and Tools
+![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Header](https://img.shields.io/badge/VirtualBox-090909?style=for-the-badge&logo=virtualbox&logoColor=f7f7f7)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=2674f2)
+![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=xcode&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/VisualStudioCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=0074d0)
+![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=4aa73c)
 
-### Testing Documentation
-* [Checklists](https://github.com/onlyomu/Checklists)
-* [Test-cases](https://github.com/onlyomu/Test-cases)
-* [Bug reports](https://lrudko.youtrack.cloud/issues?q=%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%7B%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%20%D0%A0%D1%83%D0%B4%D0%BA%D0%BE,%2045%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA,%20mars%7D)
-* [SQL Queries](https://github.com)
+### Test artifacts
 
-### Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-2D2D2D?style=for-the-badge&logo=Telegram)](https://t.me/omutop)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-2D2D2D?style=for-the-badge&logo=Linkedin)](https://ru.linkedin.com/)
+- [Theory of Testing](https://github.com/)
+- [Test Design Techniques](https://github.com/)
+- [Test Documentation](https://github.com/)
+- [Web App Testing](https://github.com/)
+- [Sniffers](https://github.com/)
+- [Testing API with Postman](https://github.com/)
+- [Database Testing](https://github.com/)
+- [Mobile Application Testing](https://github.com/)
+- [Bash](https://github.com/)
+
+### Licenses & certifications
+
+[Certificate 👈🏼](https://disk.yandex.ru/i/XMe1oXC8q-gQ_g)
+--
+
+### Find Me here
+
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/omutop)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/)
+
