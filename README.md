@@ -9,8 +9,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-2D2D2D?style=for-the-badge&logo=GitHub, "GitHub")
 ![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=for-the-badge&logo=Figma, "Figma")
 ![Charles](https://img.shields.io/badge/-CharlesProxy-2D2D2D?style=for-the-badge&logo=Charles, "Charles Proxy")
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-2D2D2D?style=for-the-badge&logo=Postgresql, PostgreSQL)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-2D2D2D?style=for-the-badge&logo=AndroidStudio, Android Studio)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-2D2D2D?style=for-the-badge&logo=Postgresql, "PostgreSQL")
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-2D2D2D?style=for-the-badge&logo=AndroidStudio, "Android Studio")
 ![DevTools](https://img.shields.io/badge/-Devtools-2D2D2D?style=for-the-badge&logo=googleChrome, "DevTools")
 
 ### Testing Documentation
