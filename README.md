@@ -1,6 +1,6 @@
 ![Header](https://github.com/onlyomu/onlyomu/blob/main/assets/1.png?raw=true, "Hello world!")
 
-## I'm a beginner QA Engineer
+## I'm a junior QA Engineer
 
 ### Languages and Tools
 ![YouTrack](https://img.shields.io/badge/-YouTrack-2D2D2D?style=for-the-badge&logo=YouTrack, "YouTrack")
