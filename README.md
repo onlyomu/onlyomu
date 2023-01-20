@@ -4,14 +4,14 @@
 
 ### Languages and Tools
 ![YouTrack](https://img.shields.io/badge/-YouTrack-2D2D2D?style=for-the-badge&logo=YouTrack, "YouTrack")
-![Postman](https://img.shields.io/badge/-Postman-2D2D2D?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/-Swagger-2D2D2D?style=for-the-badge&logo=Swagger)
-![GitHub](https://img.shields.io/badge/-GitHub-2D2D2D?style=for-the-badge&logo=GitHub)
-![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=for-the-badge&logo=Figma)
-![Charles](https://img.shields.io/badge/-CharlesProxy-2D2D2D?style=for-the-badge&logo=Charles)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-2D2D2D?style=for-the-badge&logo=Postgresql)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-2D2D2D?style=for-the-badge&logo=AndroidStudio)
-![DevTools](https://img.shields.io/badge/-Devtools-2D2D2D?style=for-the-badge&logo=googleChrome)
+![Postman](https://img.shields.io/badge/-Postman-2D2D2D?style=for-the-badge&logo=postman, "Postman")
+![Swagger](https://img.shields.io/badge/-Swagger-2D2D2D?style=for-the-badge&logo=Swagger, "Swagger")
+![GitHub](https://img.shields.io/badge/-GitHub-2D2D2D?style=for-the-badge&logo=GitHub, "GitHub")
+![Figma](https://img.shields.io/badge/-Figma-2D2D2D?style=for-the-badge&logo=Figma, "Figma")
+![Charles](https://img.shields.io/badge/-CharlesProxy-2D2D2D?style=for-the-badge&logo=Charles, "Charles Proxy")
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-2D2D2D?style=for-the-badge&logo=Postgresql, PostgreSQL)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-2D2D2D?style=for-the-badge&logo=AndroidStudio, Android Studio)
+![DevTools](https://img.shields.io/badge/-Devtools-2D2D2D?style=for-the-badge&logo=googleChrome, "DevTools")
 
 ### Testing Documentation
 * [Checklists](https://github.com/onlyomu/Checklists)
