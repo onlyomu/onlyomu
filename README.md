@@ -15,7 +15,7 @@
 
 ### Testing Documentation
 * [Checklists](https://github.com)
-* [Test-cases](https://github.com)
+* [Test-cases](https://github.com/onlyomu/Test-cases)
 * [Bug reports](https://github.com)
 * [SQL Queries](https://github.com)
 
