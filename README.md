@@ -1,4 +1,4 @@
-![Header](https://github.com/onlyomu/onlyomu/blob/main/assets/1.png?raw=true, "Hello world!")
+![Header](https://github.com/onlyomu/onlyomu/blob/main/assets/22.png?raw=true, "Hello world!")
 
 ## I'm a junior QA Engineer
 
