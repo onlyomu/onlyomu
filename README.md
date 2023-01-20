@@ -14,9 +14,9 @@
 ![DevTools](https://img.shields.io/badge/-Devtools-2D2D2D?style=for-the-badge&logo=googleChrome)
 
 ### Testing Documentation
-* [Checklists](https://github.com)
+* [Checklists](https://github.com/onlyomu/Checklists)
 * [Test-cases](https://github.com/onlyomu/Test-cases)
-* [Bug reports](https://github.com)
+* [Bug reports](https://lrudko.youtrack.cloud/issues?q=%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%20%7B%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%20%D0%A0%D1%83%D0%B4%D0%BA%D0%BE,%2045%20%D0%BF%D0%BE%D1%82%D0%BE%D0%BA,%20mars%7D)
 * [SQL Queries](https://github.com)
 
 ### Follow Me
