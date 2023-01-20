@@ -1,4 +1,4 @@
-[![Header](https://github.com/onlyomu/onlyomu/blob/main/assets/22.png)](https://www.linkedin.com/in/)
+[![Header](https://github.com/onlyomu/onlyomu/blob/main/assets/23.png)](https://www.linkedin.com/in/)
 ## I'm a QA Engineer
 
 [Link to my CV 👈🏼](https://google.com/)
