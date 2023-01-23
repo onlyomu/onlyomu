@@ -1,8 +1,8 @@
 [![Header](https://github.com/onlyomu/onlyomu/blob/main/assets/23.png)](https://www.linkedin.com/in/)
 ## I'm a QA Engineer
 
-[Link to my CV 👈🏼](https://google.com/)
---
+
+---
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=136be1)
@@ -22,19 +22,17 @@
 
 ### Test artifacts
 
-- [Theory of Testing](https://github.com/)
-- [Test Design Techniques](https://github.com/)
-- [Test Documentation](https://github.com/)
-- [Web App Testing](https://github.com/)
-- [Sniffers](https://github.com/)
-- [Testing API with Postman](https://github.com/)
-- [Database Testing](https://github.com/)
-- [Mobile Application Testing](https://github.com/)
-- [Bash](https://github.com/)
+- [Theory of Testing](https://github.com/onlyomu/Theory-of-Testing)
+- [Test Design Techniques](https://github.com/onlyomu/Test-Design-Techniques)
+- [Web App Testing](https://github.com/onlyomu/Web-App-Testing)
+- [Testing API with Postman](https://github.com/onlyomu/Testing-API-with-Postman)
+- [Database Testing](https://github.com/onlyomu/Database-testing)
+- [Mobile Application Testing](https://github.com/onlyomu/Mobile-Application-Testing)
+- [Bash](https://github.com/onlyomu/Bash)
 
 ### Licenses & certifications
 
-[Certificate 👈🏼](https://disk.yandex.ru/i/Cca7ZX3rYpIemA)
+[Certificate 👈🏼](https://drive.google.com/file/d/1t39MtiZjgO6Sw3UBfWiOCGyQXryXiiMi/view?usp=share_link)
 --
 
 ### Find Me here
