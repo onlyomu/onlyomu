@@ -29,6 +29,7 @@
 
 ### Учусь
 
-[Сертификат 👈🏼](https://drive.google.com/file/d/1t39MtiZjgO6Sw3UBfWiOCGyQXryXiiMi/view?usp=share_link)
+[Сертификат 👈🏼](https://drive.google.com/file/d/1t39MtiZjgO6Sw3UBfWiOCGyQXryXiiMi/view?usp=share_link)<br/>
+[Сертификат 2👈🏼](https://drive.google.com/file/d/1DpMEAmD7PIxCWMgIG_H4EwpTSkiIQhAh/view?usp=sharing)
 --
 
